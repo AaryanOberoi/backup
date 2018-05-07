@@ -1,0 +1,11 @@
+Listing exchanges for vhost / ...
+User1	fanout
+amq.match	headers
+	direct
+amq.direct	direct
+amq.fanout	fanout
+amq.rabbitmq.trace	topic
+amq.topic	topic
+User3	fanout
+amq.headers	headers
+User2	fanout
